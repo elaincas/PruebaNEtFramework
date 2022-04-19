@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PruebaCSharpProductos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionBd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">  "metadata=.\Northwind.csdl|.\Northwind.ssdl|.\Northwind.msl;
+      provider=System.Data.SqlClient;
+      provider connection string=&amp;quot;Data Source=localhost\SQL2000;Initial Catalog=Entrenamiento_Web;user id=laincas;password=laincas0296;Integrated Security=True;MultipleActiveResultSets=False&amp;quot;" 
+      providerName="System.Data.EntityClient"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
